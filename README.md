@@ -15,3 +15,4 @@ Does updating the mirror result in a pipeline trigger?
 - again
 - yes again
 - You guessed it again
+- another sanity check
