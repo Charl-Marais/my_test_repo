@@ -19,3 +19,4 @@ Does updating the mirror result in a pipeline trigger?
 - now its not working
 - yip again
 - I expect the pipeline to still be triggered despite being false
+- Of course I would not be done with the as yet. Always another thing around the corner.
