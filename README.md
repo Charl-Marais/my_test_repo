@@ -10,3 +10,4 @@ Does updating the mirror result in a pipeline trigger?
 - Deleted the ci file
 - Disabled project builds on Gitlab
 - No pipeline created but re-enabled it
+- testing again
