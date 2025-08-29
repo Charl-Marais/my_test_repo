@@ -11,3 +11,4 @@ Does updating the mirror result in a pipeline trigger?
 - Disabled project builds on Gitlab
 - No pipeline created but re-enabled it
 - testing again
+- and again
