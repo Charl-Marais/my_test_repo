@@ -7,3 +7,4 @@ We will test the GitLab external pipeline process
 
 Does updating the mirror result in a pipeline trigger?
 - Have now disabled the build mirror flag so it should not build
+- Deleted the ci file
