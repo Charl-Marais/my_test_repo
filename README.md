@@ -12,3 +12,4 @@ Does updating the mirror result in a pipeline trigger?
 - No pipeline created but re-enabled it
 - testing again
 - and again
+- again
