@@ -18,3 +18,4 @@ Does updating the mirror result in a pipeline trigger?
 - another sanity check
 - now its not working
 - yip again
+- I expect the pipeline to still be triggered despite being false
