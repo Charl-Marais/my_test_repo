@@ -6,3 +6,4 @@ We will test the GitLab external pipeline process
 - Is there still a delay?
 
 Does updating the mirror result in a pipeline trigger?
+- Have now disabled the build mirror flag so it should not build
