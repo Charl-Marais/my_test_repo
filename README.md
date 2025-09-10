@@ -22,3 +22,4 @@ Does updating the mirror result in a pipeline trigger?
 - Of course I would not be done with the as yet. Always another thing around the corner.
 - checking if updating via the console changes things.
 - another test
+- yet another test
