@@ -23,6 +23,7 @@ Does updating the mirror result in a pipeline trigger?
 - checking if updating via the console changes things.
 - another test
 - yet another test
+- test with policy enabled
 - testing agin
 - one more go
 - adding this via a branch
