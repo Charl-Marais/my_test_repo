@@ -33,3 +33,4 @@ Does updating the mirror result in a pipeline trigger?
 - Updating policy to include only when there mirror_user is not making the request
 - Adding manual job to policy
 - fixing manual job in policy
+- attempting another run
