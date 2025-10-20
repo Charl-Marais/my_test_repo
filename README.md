@@ -30,3 +30,4 @@ Does updating the mirror result in a pipeline trigger?
 - test umpteenth time
 - making some thing new
 - Trying once more
+- Updating policy to include only when there mirror_user is not making the request
