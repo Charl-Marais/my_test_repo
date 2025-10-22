@@ -10,3 +10,7 @@ test_job:
     - echo "hello world"
   rules:
     - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+
+test_job_2:
+  script:
+    - echo "No rules"
