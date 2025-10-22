@@ -1,4 +1,10 @@
 
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $GITLAB_USER_LOGIN == "mirror_user"
+      when: never
+
 test_job:
   script:
     - echo "hello world"
